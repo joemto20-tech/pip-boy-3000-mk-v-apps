@@ -1,0 +1,20 @@
+{
+  "id": "hamcoled",
+  "name": "HAMCo LED",
+  "author": "@joemt",
+  "version": "1.1.0",
+  "description": "Control the Pip-Boy RGB LEDs with saved colors, brightness levels, and sixteen animated effects from the Apps menu.",
+  "icon": "app.png",
+  "previews": [],
+  "tags": "system,tool",
+  "type": "app",
+  "readme": "README.md",
+  "storage": [
+    { "name": "USER/hamcoled.js", "url": "app.js" },
+    {
+      "name": "USER/HAMCO_LED/HamCoLedLoader.js",
+      "url": "HamCoLedLoader.js"
+    }
+  ],
+  "storageOptional": []
+}

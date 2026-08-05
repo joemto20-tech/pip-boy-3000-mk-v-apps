@@ -1,0 +1,9 @@
+1.1.0
+- Expand the effect library from 6 to 16 modes.
+- Add Police Lights, Heartbeat, Candle Flicker, Lightning Storm, Radiation Glitch,
+  SOS Beacon, Plasma Shift, Rapid Strobe, Power Surge, and Pip-Boy Boot.
+- Reduce animation-time allocations for better persistent-mode memory stability.
+- Restore firmware lighting correctly after sleep and when resetting to default.
+
+1.0.0
+- Add HAMCo LED as a packaged Pip-Boy app with metadata, README, ChangeLog, and install storage entries.

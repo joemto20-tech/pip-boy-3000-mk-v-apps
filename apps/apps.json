@@ -81,6 +81,29 @@
     "storageOptional": []
   },
   {
+    "id": "hamcoled",
+    "name": "HAMCo LED",
+    "author": "@joemt",
+    "version": "1.1.0",
+    "description": "Control the Pip-Boy RGB LEDs with saved colors, brightness levels, and sixteen animated effects from the Apps menu.",
+    "icon": "hamcoled/app.png",
+    "previews": [],
+    "tags": "system,tool",
+    "type": "app",
+    "readme": "hamcoled/README.md",
+    "storage": [
+      {
+        "name": "USER/hamcoled.js",
+        "url": "hamcoled/app.js"
+      },
+      {
+        "name": "USER/HAMCO_LED/HamCoLedLoader.js",
+        "url": "hamcoled/HamCoLedLoader.js"
+      }
+    ],
+    "storageOptional": []
+  },
+  {
     "id": "mtgtracker",
     "name": "MTG Life Counter",
     "author": "@tylerjbartlett",
